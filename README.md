@@ -1,6 +1,6 @@
 ###Require('lx')
 
-O `meetup`de javascript situado em lisboa.
+O `meetup`de javascript situado em Lisboa.
 
 
 #####Motivations
@@ -8,7 +8,7 @@ Até à data não existe nenhum grupo focado em javascript por Lisboa e numa ten
 
 Decidimos dar o passo em frente, tomar a iniciativa. Já sentiamos alguma necessidade de partilhar as nossas experiências/problemas com a comunidade e mostrar que em Lisboa/Portugal também se usa javascript e se produzem coisas (boas).
 
-Queremos também deixar bem claro que este grupo não pretende em parte alguma ser de alguém** mas sim da comunidade e como tal precisamos do input de todos.
+Queremos também deixar claro que este grupo não pretende de modo algum ser de alguém** mas sim da comunidade e como tal precisamos do input/ajuda de todos.
 
 
 ####Goals
@@ -16,7 +16,7 @@ Queremos também deixar bem claro que este grupo não pretende em parte alguma s
 
 * Partilhar `workflows`, `tools`, `tricks&tips`, `frameworks`, enfim como resolvemos os nossos problemas de forma elegante com javascript.
 
-* Procuramos juntar a comunidade de developers de javascript, e abranger não só a parte `clássica` do javascript a **do browser**, mas também todos os outros ambientes em que o javascript é usado como por exemplo no `server-side` através do `nodejs`.
+* Procuramos juntar a comunidade de developers de javascript, e "tocar" não só na parte mais `clássica` do javascript a **do browser**, mas também em todos os outros ambientes em que o javascript é usado como por exemplo no `server-side` através do `nodejs`.
 
 ####Get in touch
 * Criem um `pull request`
