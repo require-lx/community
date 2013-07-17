@@ -1,6 +1,6 @@
 ###require('lx')
 
-O [`meetup`](http://www.meetup.com/require-lx/)de javascript situado em Lisboa.
+O [`meetup`](http://www.meetup.com/require-lx/) de javascript situado em Lisboa.
 
 
 #####Motivations
@@ -24,7 +24,7 @@ Queremos também deixar claro que este grupo não pretende de modo algum ser de 
 * Comentem algo
 * Submetam uma talk
 * Discutam no canal de IRC `#require('lx')` no servidor `irc.freenode.net`
-* Apareçam nos `meetups`
+* Apareçam nos [`meetups`](http://www.meetup.com/require-lx/)
 
 
 
