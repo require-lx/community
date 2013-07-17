@@ -1,4 +1,4 @@
-###Require('lx')
+###require('lx')
 
 O `meetup`de javascript situado em Lisboa.
 
