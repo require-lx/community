@@ -23,7 +23,7 @@ Queremos também deixar claro que este grupo não pretende de modo algum ser de 
 * Abram um `issue`
 * Comentem algo
 * Submetam uma talk
-* Discutam no canal de IRC `#require('lx')` no servidor `irc.freenode.net`
+* **Discutam** no canal de IRC `#require('lx')` no servidor `irc.freenode.net`
 * Apareçam nos [`meetups`](http://www.meetup.com/require-lx/)
 
 
