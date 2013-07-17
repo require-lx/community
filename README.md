@@ -1,6 +1,6 @@
 ###require('lx')
 
-O `meetup`de javascript situado em Lisboa.
+O `[meetup](http://www.meetup.com/require-lx/)`de javascript situado em Lisboa.
 
 
 #####Motivations
