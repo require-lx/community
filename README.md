@@ -1,44 +1,38 @@
 ###require('lx')
 
-O [`meetup`](http://www.meetup.com/require-lx/) de javascript situado em Lisboa.
-
+O javascript [`meetup`](http://www.meetup.com/require-lx/) in Lisbon, Portugal.
 
 #####Motivations
-Até à data não existe nenhum grupo focado em javascript por Lisboa e numa tentativa de colmatar essa falha decidimos criar este grupo.
 
-Decidimos dar o passo em frente, tomar a iniciativa. Já sentiamos alguma necessidade de partilhar as nossas experiências/problemas com a comunidade e mostrar que em Lisboa/Portugal também se usa javascript e se produzem coisas (boas).
+To date, there has been no group focused on JavaScript in Lisbon - so we decided to create this group!  
 
-Queremos também deixar claro que este grupo não pretende de modo algum ser de alguém** mas sim da comunidade e como tal precisamos do input/ajuda de todos.
+We want to share our experiences and discuss challenges we experience when working with JavaScript with the Lisbon JS community in the hope to enable new awesome projects. 
 
+This is completely a community-driven effort - so we need your input and help!  
 
-####Goals
-* Encorajar contribuições `open-source/community`  por parte dos membros.
-
-* Partilhar `workflows`, `tools`, `tricks&tips`, `frameworks`, enfim como resolvemos os nossos problemas de forma elegante com javascript.
-
-* Procuramos juntar a comunidade de developers de javascript, e "tocar" não só na parte mais `clássica` do javascript a **do browser**, mas também em todos os outros ambientes em que o javascript é usado como por exemplo no `server-side` através do `nodejs`.
+### Goals 
+* Encourage members to participate in open-source JS projects.
+* Share workflows, tools, tricks & tips, and experience with frameworks that we use on a daily basis. 
+* Foster a local community of JavaScript developers - but also be welcoming to international visitors.  
+* Encourage discussion of both "classic" JavaScript environments (i.e., browsers), and also other environments where things like Node.js are making an impact: on servers, Arduinos, and the Raspberry Pi. 
 
 ####Get in touch
-* Criem um `pull request`
-* Abram um `issue`
-* Comentem algo
-* Submetam uma talk
-* **Discutam** no canal de IRC `#require('lx')` no servidor `irc.freenode.net`
-* Apareçam nos [`meetups`](http://www.meetup.com/require-lx/)
+Use any of the following methods to communicate with us: 
 
-
+* Make a pull request.
+* Open or comment in an issue.
+* Submit a talk proposal (prefix with "Talk: ").
+* **Discuss** we have an IRC channel `#require('lx')` on `irc.freenode.net`.
+* Join the group on [`meetups`](http://www.meetup.com/require-lx/) to receive notification about when we are meeting.
 
 
 #####WTF
-O Nome… pois, para o nome aceitam-se sugestões melhores, [issue já aberto](https://github.com/JavascriptLisboa/group/issues/1) (mas se vierem a uns meetups ele vai começar a fazer sentido).
+The name… I you have a better suggestion, see [open issue](https://github.com/JavascriptLisboa/group/issues/1). 
 
 
+#####Organizers**
 
-#####Organisers**
+ * João Jerónimo  - @joaojeronimo
+ * Bruno Barreto  - @NeCkEr
 
-João Jerónimo  - @joaojeronimo
-
-Bruno Barreto  - @NeCkEr
-
-
-**Quem quiser fazer parte deste grupo e ajudá-lo a crescer é bem vindo, basta entrar em contacto com um dos actuais `organisers`.
+** If you want to become an organizer and help the group grow, please contact one of the organizers.
