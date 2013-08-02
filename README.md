@@ -2,6 +2,14 @@
 
 A Javascript [`meetup`](http://www.meetup.com/require-lx/) in Lisbon, Portugal.
 
+### Past meetups
+* [first meetup](http://www.meetup.com/require-lx/events/129985122/) 01/08/2013
+
+### Upcoming meetups
+* [mini `require('lx')`](http://www.meetup.com/php-lx/events/123331262/) 08/08/2013
+* [second meetup](http://www.meetup.com/require-lx/events/132698882/) 05/09/2013
+* [first hackathon / Node Knockout](https://github.com/require-lx/group/issues/17) [06:08]/09/2013
+
 ## Motivations
 
 To date, there has been no group focused on JavaScript in Lisbon - so we decided to create this group!  
