@@ -14,7 +14,7 @@ NodeKnockout was postponed to November, we don't know yet if we're going to make
 one in September and one in November, we'll see.
 
 ### Resources
-[first meetup](https://github.com/require-lx/resources/tree/master/meetup%20%231) 01/08/2013
+* [first meetup](https://github.com/require-lx/resources/tree/master/meetup%20%231) 01/08/2013
 
 ## Motivations
 
