@@ -13,6 +13,9 @@ A Javascript [`meetup`](http://www.meetup.com/require-lx/) in Lisbon, Portugal.
 NodeKnockout was postponed to November, we don't know yet if we're going to make two hackathons,
 one in September and one in November, we'll see.
 
+### Resources
+[first meetup](https://github.com/require-lx/resources/tree/master/meetup%20%231) 01/08/2013
+
 ## Motivations
 
 To date, there has been no group focused on JavaScript in Lisbon - so we decided to create this group!  
