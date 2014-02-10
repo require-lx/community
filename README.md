@@ -14,6 +14,7 @@ A Javascript [`meetup`](http://www.meetup.com/require-lx/) in Lisbon, Portugal.
 (please suggest talks on [issues](https://github.com/require-lx/group/issues?labels=talk&page=1&state=open))
 
 ### Resources
+* Portuguese NPM mirror [http://npmjs.pt](http://npmjs.pt) - Maintained by [epocas](https://github.com/apocas)
 * [first meetup](https://github.com/require-lx/resources/tree/master/meetup%20%231) 01/08/2013
 * [second meetup](https://github.com/require-lx/resources/tree/master/meetup%20%232) 05/09/2013
 
