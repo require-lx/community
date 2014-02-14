@@ -1,5 +1,9 @@
 #require('lx')
 
+[![Gitter chat](https://badges.gitter.im/require-lx/group.png)](https://gitter.im/require-lx/group)
+
+![](https://i.cloudup.com/t3SIoZKMd6-3000x3000.png)
+
 A Javascript [`meetup`](http://www.meetup.com/require-lx/) in Lisbon, Portugal.
 
 ### Past meetups
