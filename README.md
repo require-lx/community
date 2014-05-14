@@ -19,8 +19,7 @@ A Javascript [`meetup`](http://www.meetup.com/require-lx/) in Lisbon, Portugal.
 * [second meetup](http://www.meetup.com/require-lx/events/132698882/) 05/09/2013
 * [third meetup](http://www.meetup.com/require-lx/events/152610542/) 27/11/2013
 * [fourth meetup](http://www.meetup.com/require-lx/events/160302572/) 16/01/2014
-
-
+* [fifth meetup](http://www.meetup.com/require-lx/events/165935392/) 19/02/2014
 
 ### Resources
 * Portuguese NPM mirror [http://npmjs.pt](http://npmjs.pt) - Maintained by [apocas](https://github.com/apocas)
@@ -29,7 +28,7 @@ A Javascript [`meetup`](http://www.meetup.com/require-lx/) in Lisbon, Portugal.
 
 All `require('lx')` speakers please pull request your talk resources to the [resources repo](https://github.com/require-lx/resources). Thanks.
 
-## Motivations
+# Motivations
 
 To date, there has been no group focused on JavaScript in Lisbon - so we decided to create this group!  
 
@@ -37,30 +36,33 @@ We want to share our experiences and discuss challenges we experience when worki
 
 This is completely a community-driven effort - so we need your input and help!  
 
-## Goals 
+# Goals 
 * Encourage members to participate in open-source JS projects.
 * Share workflows, tools, tricks & tips, and experience with frameworks that we use on a daily basis. 
 * Foster a local community of JavaScript developers - but also be welcoming to international visitors.  
 * Encourage discussion of both "classic" JavaScript environments (i.e., browsers), and also other environments where things like Node.js are making an impact: on servers, Arduinos, and the Raspberry Pi. 
 
-## Get in touch
+# Get in touch
 Use any of the following methods to communicate with us: 
 
 * Make a pull request.
 * Open or comment in an issue.
-* Submit a talk proposal (prefix with "Talk: ").
-* **Discuss** we have an IRC channel `#require('lx')` on `irc.freenode.net`.
+* **Discuss** jump on https://gitter.im/require-lx/group
 * Join the group on [`meetups`](http://www.meetup.com/require-lx/) to receive notification about when we are meeting.
 
+# Contribute
 
-## WTF
+## Sponsorships
 
-The name… yes we know that the name has little to do with javascript, and it's something completely defined in
-implementations rather than specs (well, at least [until now](http://wiki.ecmascript.org/doku.php?id=harmony:modules)).
+* We are always looking for beer, snacks and food for the meetuos, developers are hungry folks :) If you are able to sponsor please reach out to us through this repo by opening a issue with the prefix "SPONSOR: "
+* 
+## Venue
 
-But it's something Javascript developers deal with every day.
-We've been [discussing this](https://github.com/JavascriptLisboa/group/issues/1) but most people agree with the name.
+* If you have a Venue available to host a meetup, please do share! Open a issue in this repo with the prefix "VENUE: ".
 
+## Talk && Workshops
+
+* Submit a talk proposal by opening a issue in this repo with the prefix "TALK: ".
 
 ## Organizers
 
