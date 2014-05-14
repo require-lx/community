@@ -55,7 +55,7 @@ Use any of the following methods to communicate with us:
 ## Sponsorships
 
 * We are always looking for beer, snacks and food for the meetuos, developers are hungry folks :) If you are able to sponsor please reach out to us through this repo by opening a issue with the prefix "SPONSOR: "
-* 
+
 ## Venue
 
 * If you have a Venue available to host a meetup, please do share! Open a issue in this repo with the prefix "VENUE: ".
