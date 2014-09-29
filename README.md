@@ -8,8 +8,6 @@ A Javascript [`meetup`](http://www.meetup.com/require-lx/) in Lisbon, Portugal.
 
 ### Upcoming meetups
 
-* [fifth meetup](http://www.meetup.com/require-lx/events/165935392/) 19/02/2014
-
 (please suggest talks on [issues](https://github.com/require-lx/group/issues?labels=talk&page=1&state=open))
 
 
