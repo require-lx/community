@@ -1,0 +1,248 @@
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=1024" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <title>Packer</title>
+    
+    <meta name="description" content="" />
+    <meta name="author" content="Pierre Ozoux" />
+
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:regular,semibold,italic,italicsemibold|PT+Sans:400,700,400italic,700italic|PT+Serif:400,700,400italic,700italic" rel="stylesheet" />
+
+    <link rel="stylesheet" href="css/solarized-dark.css">
+    <link rel="stylesheet" href="css/packer.css">
+    <script src="js/app.js"></script>
+    <script>
+      function drawThisTable() {
+        var scripts = document.getElementsByTagName('script');
+        myScript = scripts[scripts.length - 1];
+        divId = myScript.previousSibling.previousSibling.id;
+        console.log(divId)
+        
+      }
+    </script>
+
+</head>
+<body class="impress-not-supported" bgcolor="#343A3F">
+
+<div id="impress">
+
+  <div class="step slide" data-x="-4500" data-y="-1500">
+
+    <!-- <img src="seedrs.png"> -->
+    </br></br></br></br>
+    <center>
+      <img src="img/packer.jpg"></br></br>
+      <p style="font-family: 'Monaco', courier, monospace;">require('lx','2.0')<p>
+    </center>
+      
+  </div>
+
+  <div id="impress">
+
+  <div class="step slide" data-x="-3000" data-y="-1500">
+    <div id="inner_slide1">
+      <h1>Who am I</h1></br>
+      <ul>
+        <li>DevOps at <a href="www.seedrs.com">Seedrs.com</a></li>
+        <li>OuiShare / basic income</li>
+        <li>Distributed social Network Running on Pi's!</li>
+      </ul>
+    </div>
+    <script>drawTable("inner_slide1");</script>
+  </div>
+
+  <div class="step" data-x="-3000" data-y="-3000" data-z="-100" data-rotate-x="-45" data-rotate-y="0" data-scale="3">
+    <a href="http://rastrack.co.uk/"><img src="img/pi_map.jpg"></a>
+  </div>
+
+  <div class="step slide" data-x="-1500" data-y="-1500">
+    <div id="inner_slide2">
+      <h1>Packer</h1><br>
+      <ul>
+        <li>Template in a JSON file</li>
+        <li>Builder</li>
+        <li>Provisioner</li>
+        <li>Post-Processor</li>
+        <li>Variables</li>
+      </ul>
+    </div>
+    <script>drawTable("inner_slide2");</script>
+  </div>
+
+  <div class="step" data-x="1000" data-y="-1500" data-z="-100" data-rotate-x="-90" data-rotate-y="-90" data-scale="1">
+    <div id="inner_slide3" style="width: 700px">
+      <h1>Use the source, Luke!</h1><br>
+      <center><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARgAAAEYCAMAAACwUBm+AAAAAXNSR0IArs4c6QAAAKtQTFRFsAAAvbWSLUUrLEQqY1s8UYJMqJ1vNTEgOiIdIzYhjIFVLhsXZ6lgSEIsP2U8JhcCVzMsSXZEgXdOO145XJdWOl03LzAYMk4vSXNExr+hwcuxRTs1Qmk+RW9Am49eFRANQz4pUoNMQWc+OSMDTz0wLBsCNVMxa2NBOyUDUoNNSnlEWo9VRGxAVzYFl6tXCggHbLNmMUIcHhwTXkk5f3VNRT8wUT8xAAAACQocRBWFFwAAAAF0Uk5TAEDm2GYAAAPCSURBVHja7d3JctNAFIZRMwRCCGEmzPM8z/D+T8bu/ptbXXJFdij5fMt2Wuo+2UgqxVmtttq5WVotLzBgwIABAwYMGDCn0qVqbo69psPqVpWx+1XG5iaavF8wYMCAAQMGDBgwi4DJ6Y6qkxB1HNlcN3a92gbR5P2CAQMGDBgwYMCAWSxMlrU+UY5yu2l9okfV4bAxUVbf7TJnAwMGDBgwYMCAAbMLMHeqbGR82Zy+VR1Ht81nVca6R+UdTLaU24Ruzd3qM/e4yjnAgAEDBgwYMGDA7AJMd1l/3NRdVGcj3eX/2WEhCmDGxnM7yqygu8XIPjJj8iN/MGDAgAEDBgwYMAuDGb8q0RGlLCHLv1t9qDKWn3vdNHVuEI6HPaxO9Jo3GDBgwIABAwYMmIXBdC9ShGgMk+XnkXUeuGcsP/e1+lhNnZsL/G5Vs3OAAQMGDBgwYMCAWSxMR3SzOmraG5atdy9wZKzb+vg16qyqe2FltbnAgAEDBgwYMGDALAxmTJSuN3WA76rnVca6GTnemGN1WoEBAwYMGDBgwIBZGMxUomy4+xO899V4LAg5Xnc2MGDAgAEDBgwYMGA218Wq+2K1LDqvY9xZu8zN8fICdM6btYABAwYMGDBgwIABMzfH0+pGU5afze2tXebmeAfVz+p8BQYMGDBgwIABAwbMPBzZ+oWmfJrln1273FhkbHzee9WWbw7AgAEDBgwYMGDALAKm43hcdctKgblcPamOhuXnXlY5Xs6bsW4FGyQCAwYMGDBgwIABswiYMceZKgvMo+h8mrHLTdn676rj+FEFoTtHd8MwOxEYMGDAgAEDBgyYRcBM5UhXqiymW3R3c9ARhWO/OmjqfjVZy+xEYMCAAQMGDBgwYBYG073OnCV0RFNhMhaOa9WfKmOB6XjHMN1tQmaAAQMGDBgwYMCA2VWY7vXjz1U4croAzgPztwIDBgwYMGDAgAEDZhswh035NBw59Dww3RgYMGDAgAEDBgwYMJuD6f4tXT7NUqfCdBvZLkxXdgQGDBgwYMCAAQNmt2DGj8WzwAfV/w7T/aq7mxwwYMCAAQMGDBgwuwqTOo7uTwTngflSzQ3TdaJvAwEDBgwYMGDAgAED5gSvgbyo5oHZ4Pc+gwEDBgwYMGDAgAEzhOm+5G0qTGaAAQMGDBgwYMCAAXNaMOcnls3tNwWm+zRzp54NDBgwYMCAAQMGDJh5YNL36k1TLuGvVq+qnKMbS5n7tulT9asCAwYMGDBgwIABA2ZumKuztLnjgQEDBgwYMGDAgNl5mH/4/ltKA6vBNAAAAABJRU5ErkJggg=="></center>
+    </div>
+    <script>drawTable("inner_slide3");</script>
+  </div>
+
+
+  <div id="overview_code" class="step" data-x="0" data-y="1770" data-scale="5">
+  </div>
+
+
+  <div class="step" data-x="0" data-y="0">
+    <pre><code data-language="javascript">{
+  "builders": [
+    {
+      "type": "virtualbox",
+      "name": "virtualbox-ubuntu",
+      "boot_command": [
+        "&lt;esc&gt;&lt;esc&gt;&lt;enter&gt;&lt;wait&gt;&lt;enter&gt;&lt;wait&gt;",
+        "preseed/url=",
+        "http://{{ .HTTPIP }}:{{ .HTTPPort }}",
+        "/preseed.cfg",
+        "&lt;wait&gt;hostname={{ .Name }} &lt;wait&gt;",
+        ...
+      ],
+      "http_directory": "http/ubuntu/",            </pre></code>
+  </div>
+
+  <div class="step" data-x="0" data-y="600">
+    <pre><code data-language="javascript">      "guest_os_type": "Ubuntu_64",
+      "iso_url": "http://releases.ubuntu.com/...",
+      "iso_checksum": "7d335ca541fc49..",
+      "iso_checksum_type": "md5",
+      "ssh_username": "{{user `ssh_username`}}",
+      "ssh_password": "{{user `ssh_password`}}",   </pre></code>
+  </div>
+
+  <div class="step" data-x="0" data-y="1050">
+    <pre><code data-language="javascript">      "vboxmanage": [
+        [
+          "modifyvm",
+          "{{.Name}}",
+          "--memory",
+          "1024"
+        ]
+      ]
+    },                                             </pre></code>
+  </div>
+  
+  <div class="step" data-x="0" data-y="1590">
+    <pre><code data-language="javascript">    {
+      "type": "vmware",
+      ...
+    },
+    {
+      "type": "amazon-instance",
+      ...
+    }
+  ],                                               </pre></code>
+  </div>
+
+<div class="step" data-x="0" data-y="2130">
+    <pre><code data-language="javascript">  "variables": {
+    "timezone": "UTC",
+    "ruby_version": "1.9.3-p448",
+    "puppet_version": "",
+    "chef_version": null,
+    "ssh_username": "vagrant",
+    "ssh_password": "vagrant"
+    ...
+  },                                               </pre></code>
+  </div>    
+
+<!-- Data y = (prev_number_line+next_number_line)*line-height/2 -->
+  <div class="step" data-x="0" data-y="2580">
+    <pre><code data-language="javascript">  "provisioners": [
+    {
+      "type": "file",
+      "source": "a/relative/path/to/a/file",
+      "destination": "/tmp/file"
+    },                                             </pre></code>
+  </div>
+
+  <div class="step" data-x="0" data-y="3150">
+    <pre><code data-language="javascript">    {
+      "type": "shell",
+      "environment_vars": [
+        "RUBY_VERSION={{user `ruby_version`}}",
+        ...
+      ],
+      "scripts": [
+        "scripts/ubuntu/base.sh",
+        "scripts/common/ruby.sh",
+        ...]                                       
+    }
+  ],                                               </pre></code>
+  </div>
+
+  <div class="step" data-x="0" data-y="3570">
+    <pre><code data-language="javascript">  "post-processors": ["vagrant"]
+}                                                  </pre></code>
+  </div>
+
+  <div id="overview_code" class="step" data-x="0" data-y="1770" data-scale="5">
+  </div>
+
+  <div class="step slide" data-x="0" data-y="5000">
+    <div id="inner_slide10">
+      <h1>Packer commands</h1><br>
+        <ul>
+          <li>inspect</li>
+          <li>validate</li>
+          <li>build
+            <ul>
+            <li>-except</li>
+            <li>-only</li>
+            <li>-var-file</li>
+            <li>-var 'ssh_username=requirelx'</li>
+            </ul>
+          </li>
+        </ul>
+    </div>
+    <script>drawTable("inner_slide10");</script>
+  </div>
+
+  <div class="step slide" data-x="1500" data-y="5000">
+    <div id="inner_slide12">
+      <h1>Where to find template?</h1><br>
+        <ul>
+          <li>veewee-to-packer</li>
+          <li>packer distrib site:github.com</li>
+          <li>template repository?</li>
+        </ul>
+    </div>
+    <script>drawTable("inner_slide12");</script>
+  </div>
+
+  <div class="step slide" data-x="3000" data-y="5000">
+    <div id="inner_slide13">
+      <h1>packer-warehouse</h1><br>
+        <ul>
+          <li><a href="https://github.com/pierreozoux/packer-warehouse">pierreozoux/packer-warehouse</a></li>
+        </ul>
+    </div>
+    <script>drawTable("inner_slide13");</script>
+  </div>
+
+  <div class="step slide" data-x="4500" data-y="5000">
+    <div id="inner_slide14">
+      <h1>Thoughts</h1><br>
+        <ul>
+          <li>Read the doc, it's great!</li>
+          <li>Go is really fast</li>
+          <li>Post issues!</li>
+        </ul>
+    </div>
+    <script>drawTable("inner_slide14");</script>
+  </div>
+
+  <div class="step question" data-x="-9000" data-y="2000" data-scale="20" >
+    <h1>Questions?</h1>
+    <a href="https://twitter.com/pierreozoux">@pierreozoux</a>
+  </div>
+
+</div>
+<script src="js/impress.js"></script>
+<script>impress().init();</script>
+<script src="js/rainbow.min.js"></script>
+<script src="js/generic.js"></script>
+<script src="js/javascript.js"></script>
+
+</body>
+</html>

@@ -6,15 +6,18 @@
 
 A Javascript [`meetup`](http://www.meetup.com/require-lx/) in Lisbon, Portugal.
 
-### Upcoming meetups
+## Upcoming meetups
 
 (please suggest talks on [issues](https://github.com/require-lx/group/issues?labels=talk&page=1&state=open))
 
+## Resources
 
-### Past meetups
-* [first meetup](http://www.meetup.com/require-lx/events/129985122/) 01/08/2013
+* [first meetup](http://www.meetup.com/require-lx/events/129985122/) 01/08/2013:
+  * Pedro Dias talking about, [node checker](http://nodechecker.com/) (a.k.a. npmt) and how he used docker.io to test all the modules in the npm registry.
+  * Bruno Barreto and joão jeronimo, about `Love-Hate Relationships with JavaScript`.
 * [mini `require('lx')`](http://www.meetup.com/php-lx/events/123331262/) 08/08/2013
-* [second meetup](http://www.meetup.com/require-lx/events/132698882/) 05/09/2013
+* [second meetup](http://www.meetup.com/require-lx/events/132698882/) 05/09/2013:
+  * Pierre Ozoux from Seedrs talk about packer.io
 * [third meetup](http://www.meetup.com/require-lx/events/152610542/) 27/11/2013
 * [fourth meetup](http://www.meetup.com/require-lx/events/160302572/) 16/01/2014
 * [fifth meetup](http://www.meetup.com/require-lx/events/165935392/) 19/02/2014
@@ -22,13 +25,9 @@ A Javascript [`meetup`](http://www.meetup.com/require-lx/) in Lisbon, Portugal.
 * [seventh meetup](http://www.meetup.com/require-lx/events/197816912/) 14/08/2014
 * [heigth meetup](http://www.meetup.com/require-lx/events/200248822/) 13/09/2014
 
-
-### Resources
-* Portuguese NPM mirror [http://npmjs.pt](http://npmjs.pt) - Maintained by [apocas](https://github.com/apocas)
-* [first meetup](https://github.com/require-lx/resources/tree/master/meetup%20%231) 01/08/2013
-* [second meetup](https://github.com/require-lx/resources/tree/master/meetup%20%232) 05/09/2013
-
 All `require('lx')` speakers please pull request your talk resources to the [resources repo](https://github.com/require-lx/resources). Thanks.
+
+### Portuguese NPM mirror [http://npmjs.pt](http://npmjs.pt) - Maintained by [apocas](https://github.com/apocas)
 
 # Motivations
 
