@@ -1,7 +1,6 @@
 #require('lx')
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/require-lx/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[![Gitter chat](https://badges.gitter.im/require-lx/community.png)](https://gitter.im/require-lx/community)
 
 ![](https://i.cloudup.com/t3SIoZKMd6-3000x3000.png)
 
