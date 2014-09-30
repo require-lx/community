@@ -1,6 +1,6 @@
 #require('lx')
 
-[![Gitter chat](https://badges.gitter.im/require-lx/group.png)](https://gitter.im/require-lx/group)
+[![Gitter chat](https://badges.gitter.im/require-lx/community.png)](https://gitter.im/require-lx/community)
 
 ![](https://i.cloudup.com/t3SIoZKMd6-3000x3000.png)
 
@@ -8,7 +8,7 @@ A Javascript [`meetup`](http://www.meetup.com/require-lx/) in Lisbon, Portugal.
 
 ## Upcoming meetups
 
-(please suggest talks on [issues](https://github.com/require-lx/group/issues?labels=talk&page=1&state=open))
+(please suggest talks on [issues](https://github.com/require-lx/community/issues?labels=talk&page=1&state=open))
 
 ## Resources
 
@@ -48,7 +48,7 @@ Use any of the following methods to communicate with us:
 
 * Make a pull request.
 * Open or comment in an issue.
-* **Discuss** jump on https://gitter.im/require-lx/group
+* **Discuss** jump on https://gitter.im/require-lx/community
 * Join the group on [`meetups`](http://www.meetup.com/require-lx/) to receive notification about when we are meeting.
 
 # Contribute
