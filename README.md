@@ -23,7 +23,7 @@ A Javascript [`meetup`](http://www.meetup.com/require-lx/) in Lisbon, Portugal.
 * [fifth meetup](http://www.meetup.com/require-lx/events/165935392/) 19/02/2014
 * [sixth meetup](http://www.meetup.com/require-lx/events/183884782/) 05/06/2014
 * [seventh meetup](http://www.meetup.com/require-lx/events/197816912/) 14/08/2014
-* [heigth meetup](http://www.meetup.com/require-lx/events/200248822/) 13/09/2014
+* [eighth meetup](http://www.meetup.com/require-lx/events/200248822/) 13/09/2014
 
 All `require('lx')` speakers please pull request your talk resources to the [resources repo](https://github.com/require-lx/resources). Thanks.
 
