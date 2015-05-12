@@ -70,6 +70,8 @@ Use any of the following methods to communicate with us:
  * João Jerónimo  - @joaojeronimo
  * Bruno Barreto  - @NeCkEr
  * David Dias     - @diasdavid on gh, @daviddias on tw :)
+ * Fábio Oliveira - @foliveira
+ * Daniela Borges - @sericaia
 
 All the help is appreciated. If you would like to become an organizer and help the group grow,
 please contact one of the organizers.
