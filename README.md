@@ -1,10 +1,10 @@
-#require('lx')
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/require-lx/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+require('lx')
+=============
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/require-lx/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/require-lx/community/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
+> A Javascript [`meetup`](http://www.meetup.com/require-lx/) in Lisbon, Portugal.
 
 ![](https://i.cloudup.com/t3SIoZKMd6-3000x3000.png)
-
-A Javascript [`meetup`](http://www.meetup.com/require-lx/) in Lisbon, Portugal.
 
 ## Upcoming meetups
 
@@ -27,7 +27,9 @@ A Javascript [`meetup`](http://www.meetup.com/require-lx/) in Lisbon, Portugal.
 
 All `require('lx')` speakers please pull request your talk resources to the [resources repo](https://github.com/require-lx/resources). Thanks.
 
-### Portuguese NPM mirror [http://npmjs.pt](http://npmjs.pt) - Maintained by [apocas](https://github.com/apocas)
+# NodeSchool Lisbon
+
+https://github.com/nodeschool/lisbon
 
 # Motivations
 
@@ -77,5 +79,5 @@ All the help is appreciated. If you would like to become an organizer and help t
 please contact one of the organizers.
 
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/require-lx/community/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
 
