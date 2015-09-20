@@ -68,6 +68,8 @@ Use any of the following methods to communicate with us:
 
 All the help is appreciated. If you would like to become an organizer and help the group grow, please contact one of the organizers.
 
+## Get up to speed on JS
 
+- https://github.com/require-lx/community/issues/42
 
 
