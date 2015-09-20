@@ -1,16 +1,21 @@
 require('lx')
 =============
+
+![](https://i.cloudup.com/t3SIoZKMd6-3000x3000.png)
+
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/require-lx/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/require-lx/community/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
 > A Javascript [`meetup`](http://www.meetup.com/require-lx/) in Lisbon, Portugal.
-
-![](https://i.cloudup.com/t3SIoZKMd6-3000x3000.png)
 
 ## Upcoming meetups
 
 (please suggest talks on [issues](https://github.com/require-lx/community/issues?labels=talk&page=1&state=open))
 
 ## Resources
+
+Meetups - 
+Talks (proposed and delivered - 
+Nodeschool - 
 
 * [first meetup](http://www.meetup.com/require-lx/events/129985122/) 01/08/2013:
   * Pedro Dias talking about, [node checker](http://nodechecker.com/) (a.k.a. npmt) and how he used docker.io to test all the modules in the npm registry.
