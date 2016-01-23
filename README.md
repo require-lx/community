@@ -3,7 +3,7 @@ require('lx')
 
 ![](https://i.cloudup.com/t3SIoZKMd6-3000x3000.png)
 
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/require-lx/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/require-lx/community/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/require-lx/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) 
 
 > A Javascript [`meetup`](http://www.meetup.com/require-lx/) in Lisbon, Portugal.
 
@@ -67,9 +67,3 @@ Use any of the following methods to communicate with us:
  * Daniela Borges - @sericaia
 
 All the help is appreciated. If you would like to become an organizer and help the group grow, please contact one of the organizers.
-
-## Get up to speed on JS
-
-- https://github.com/require-lx/community/issues/42
-
-
