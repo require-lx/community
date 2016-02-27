@@ -1,6 +1,3 @@
-require('lx')
-=============
-
 ![](https://i.cloudup.com/t3SIoZKMd6-3000x3000.png)
 
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/require-lx/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) 
@@ -9,7 +6,7 @@ require('lx')
 
 ## Upcoming meetups
 
-(please suggest talks on [issues](https://github.com/require-lx/community/issues?labels=talk&page=1&state=open))
+Check http://www.meetup.com/require-lx/
 
 ## Resources
 
@@ -17,11 +14,11 @@ require('lx')
 - [talks (proposed and delivered)](/talks)
 - [nodeschool](/nodeschool)
 
-# NodeSchool Lisbon
+# Looking for NodeSchool Lisbon ?
 
 https://github.com/nodeschool/lisbon
 
-# Motivations
+# History
 
 To date (July 2013), there has been no group focused on JavaScript in Lisbon - so we decided to create this group!  
 
